@@ -1,0 +1,1 @@
+include(${SELECT_OSIDHLD_VARIANT})
